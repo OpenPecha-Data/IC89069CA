@@ -5,16 +5,20 @@ source_metadata:
   title: གསུང་འབུམ། དབྱངས་ཅན་དགའ་བའི་བློ་གྲོས། （སྐུ་འབུམ་པར་མ། ལྡི་ལིར་བསྐྱར་པར་བརྒྱབ་པ།）
   author: ''
   volumes:
-    c84fa0d491154621b047a809deca7caf:
+    1cc276cc7a854dc59744f70a6416fb0d:
       image_group_id: I1KG9578
-      title: ''
+      title: Volume 1 of gsung 'bum/_dbyangs can dga' ba'i blo gros/ (sku 'bum par
+        ma'i par shus/)
       volume_number: 1
       total_pages: 850
-    65d2ffc1bf3a4ca582ab274517581486:
+      base_file: v001.txt
+    b11b89d207354665a64a53d483f6ca95:
       image_group_id: I1KG9579
-      title: ''
+      title: Volume 2 of gsung 'bum/_dbyangs can dga' ba'i blo gros/ (sku 'bum par
+        ma'i par shus/)
       volume_number: 2
       total_pages: 821
+      base_file: v002.txt
 ebook_metadata:
   title: གསུང་འབུམ། དབྱངས་ཅན་དགའ་བའི་བློ་གྲོས། （སྐུ་འབུམ་པར་མ། ལྡི་ལིར་བསྐྱར་པར་བརྒྱབ་པ།）
   author: ''
